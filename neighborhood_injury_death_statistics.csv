@@ -1,0 +1,38 @@
+BoroCode,BoroName,CountyFIPS,NTA2020,NTAName,NTAAbbrev,NTAType,CDTA2020,CDTAName,Shape_Leng,Shape_Area,num_of_persons_injured_sum,num_of_persons_killed_sum
+"1",Manhattan,"061",MN0101,Financial District-Battery Park City,FiDi,"0",MN01,MN01 Financial District-Tribeca (CD 1 Equivalent),44446.23656210000,19245010.36749999970,106.000000,
+"1",Manhattan,"061",MN0102,Tribeca-Civic Center,TriBeCa,"0",MN01,MN01 Financial District-Tribeca (CD 1 Equivalent),21222.44324330000,13577180.70700000040,130.000000,
+"1",Manhattan,"061",MN0191,The Battery-Governors Island-Ellis Island-Liberty Island,Btry_GvIsl,"9",MN01,MN01 Financial District-Tribeca (CD 1 Equivalent),48758.70493590000,11989895.90130000189,3.000000,
+"1",Manhattan,"061",MN0201,SoHo-Little Italy-Hudson Square,SoHo,"0",MN02,MN02 Greenwich Village-SoHo (CD 2 Equivalent),18577.11173590000,12916760.86009999923,185.000000,1.000000
+"1",Manhattan,"061",MN0202,Greenwich Village,GrnwchVlg,"0",MN02,MN02 Greenwich Village-SoHo (CD 2 Equivalent),12973.12810390000,10605561.71059999987,108.000000,
+"1",Manhattan,"061",MN0203,West Village,WstVlg,"0",MN02,MN02 Greenwich Village-SoHo (CD 2 Equivalent),21502.31233340000,14292674.54930000193,109.000000,1.000000
+"1",Manhattan,"061",MN0301,Chinatown-Two Bridges,Chntwn,"0",MN03,MN03 Lower East Side-Chinatown (CD 3 Equivalent),16464.37154120000,11542627.77740000002,136.000000,2.000000
+"1",Manhattan,"061",MN0302,Lower East Side,LES,"0",MN03,MN03 Lower East Side-Chinatown (CD 3 Equivalent),19890.88544340000,16473190.91149999946,317.000000,
+"1",Manhattan,"061",MN0303,East Village,EstVlg,"0",MN03,MN03 Lower East Side-Chinatown (CD 3 Equivalent),22027.98225550000,18978774.81799999997,209.000000,2.000000
+"1",Manhattan,"061",MN0401,Chelsea-Hudson Yards,Chls_HdsYd,"0",MN04,MN04 Chelsea-Hell's Kitchen (CD 4 Approximation),40095.23537350000,29671751.97610000521,315.000000,4.000000
+"1",Manhattan,"061",MN0402,Hell's Kitchen,HllsKtchn,"0",MN04,MN04 Chelsea-Hell's Kitchen (CD 4 Approximation),34693.87478200000,18382315.81639999896,280.000000,
+"1",Manhattan,"061",MN0501,Midtown South-Flatiron-Union Square,MdtwnSth,"0",MN05,MN05 Midtown-Flatiron-Union Square (CD 5 Approximation),18800.76596950000,14878105.14409999922,202.000000,
+"1",Manhattan,"061",MN0502,Midtown-Times Square,Mdtwn_TmSq,"0",MN05,MN05 Midtown-Flatiron-Union Square (CD 5 Approximation),21258.40136800000,24552509.15870000049,440.000000,1.000000
+"1",Manhattan,"061",MN0601,Stuyvesant Town-Peter Cooper Village,StyTwn,"0",MN06,MN06 East Midtown-Murray Hill (CD 6 Approximation),11061.81946960000,5575563.16438999958,32.000000,
+"1",Manhattan,"061",MN0602,Gramercy,Grmrcy,"0",MN06,MN06 East Midtown-Murray Hill (CD 6 Approximation),12096.89085400000,7526916.42363999970,114.000000,2.000000
+"1",Manhattan,"061",MN0603,Murray Hill-Kips Bay,MryHl_KpBy,"0",MN06,MN06 East Midtown-Murray Hill (CD 6 Approximation),23944.80023830000,15771152.67650000192,292.000000,
+"1",Manhattan,"061",MN0604,East Midtown-Turtle Bay,EstMdtwn,"0",MN06,MN06 East Midtown-Murray Hill (CD 6 Approximation),16654.68592800000,13138095.62470000051,200.000000,
+"1",Manhattan,"061",MN0661,United Nations,UN,"6",MN06,MN06 East Midtown-Murray Hill (CD 6 Approximation),5307.39130837000,1091250.04232000001,10.000000,1.000000
+"1",Manhattan,"061",MN0701,Upper West Side-Lincoln Square,UWS_LclnSq,"0",MN07,MN07 Upper West Side (CD 7 Approximation),19952.42052500000,15797448.71719999984,156.000000,1.000000
+"1",Manhattan,"061",MN0702,Upper West Side (Central),UWS_C,"0",MN07,MN07 Upper West Side (CD 7 Approximation),24906.00922310000,25410667.67550000176,254.000000,2.000000
+"1",Manhattan,"061",MN0703,Upper West Side-Manhattan Valley,UWS_MnVly,"0",MN07,MN07 Upper West Side (CD 7 Approximation),14867.87274040000,13200449.83080000058,77.000000,
+"1",Manhattan,"061",MN0801,Upper East Side-Lenox Hill-Roosevelt Island,UES_LnxHl,"0",MN08,MN08 Upper East Side-Roosevelt Island (CD 8 Equivalent),38425.38372960000,21500956.44489999861,232.000000,1.000000
+"1",Manhattan,"061",MN0802,Upper East Side-Carnegie Hill,UES_CrngHl,"0",MN08,MN08 Upper East Side-Roosevelt Island (CD 8 Equivalent),23778.41033470000,20065363.83709999919,171.000000,
+"1",Manhattan,"061",MN0803,Upper East Side-Yorkville,UES_Yrkvl,"0",MN08,MN08 Upper East Side-Roosevelt Island (CD 8 Equivalent),18075.23999210000,13645033.64310000092,146.000000,2.000000
+"1",Manhattan,"061",MN0901,Morningside Heights,MrngsdHts,"0",MN09,MN09 Morningside Heights-Hamilton Heights (CD 9 Equivalent),17757.80735750000,15922766.52610000037,138.000000,1.000000
+"1",Manhattan,"061",MN0902,Manhattanville-West Harlem,Mnhttnvl,"0",MN09,MN09 Morningside Heights-Hamilton Heights (CD 9 Equivalent),17357.24659350000,10734804.78999999911,138.000000,
+"1",Manhattan,"061",MN0903,Hamilton Heights-Sugar Hill,HmltnHts,"0",MN09,MN09 Morningside Heights-Hamilton Heights (CD 9 Equivalent),17103.36312900000,15984382.96959999949,179.000000,1.000000
+"1",Manhattan,"061",MN1001,Harlem (South),Hrlm_S,"0",MN10,MN10 Harlem (CD 10 Equivalent),16624.46278930000,14441227.63770000078,269.000000,
+"1",Manhattan,"061",MN1002,Harlem (North),Hrlm_N,"0",MN10,MN10 Harlem (CD 10 Equivalent),26098.05139130000,23790626.05909999460,382.000000,
+"1",Manhattan,"061",MN1101,East Harlem (South),EstHrlm_S,"0",MN11,MN11 East Harlem (CD 11 Equivalent),18682.26506080000,16653939.76820000075,267.000000,
+"1",Manhattan,"061",MN1102,East Harlem (North),EstHrlm_N,"0",MN11,MN11 East Harlem (CD 11 Equivalent),28711.00031150000,26104504.84369999915,490.000000,2.000000
+"1",Manhattan,"061",MN1201,Washington Heights (South),WshHts_S,"0",MN12,MN12 Washington Heights-Inwood (CD 12 Equivalent),22198.41019550000,21026875.54439999908,290.000000,5.000000
+"1",Manhattan,"061",MN1202,Washington Heights (North),WshHts_N,"0",MN12,MN12 Washington Heights-Inwood (CD 12 Equivalent),26731.59613210000,24773510.54250000045,259.000000,3.000000
+"1",Manhattan,"061",MN1203,Inwood,Inwd,"0",MN12,MN12 Washington Heights-Inwood (CD 12 Equivalent),23347.40430370000,14437615.80340000056,199.000000,
+"1",Manhattan,"061",MN1291,Highbridge Park,HghbrdgPk,"9",MN12,MN12 Washington Heights-Inwood (CD 12 Equivalent),27245.58926520000,7752363.86141000036,41.000000,
+"1",Manhattan,"061",MN1292,Inwood Hill Park,InwdHlPk,"9",MN12,MN12 Washington Heights-Inwood (CD 12 Equivalent),20537.20519430000,10007466.92469999939,6.000000,
+"1",Manhattan,"061",MN6491,Central Park,CntrlPk,"9",MN64,MN64 Central Park (JIA 64 Equivalent),32721.09735800000,38312378.81009999663,64.000000,1.000000
